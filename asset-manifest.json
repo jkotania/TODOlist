@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/TODOlist/static/css/main.db6ca6de.css",
-    "main.js": "/TODOlist/static/js/main.79bdb9a9.js",
-    "index.html": "/TODOlist/index.html",
-    "main.db6ca6de.css.map": "/TODOlist/static/css/main.db6ca6de.css.map",
-    "main.79bdb9a9.js.map": "/TODOlist/static/js/main.79bdb9a9.js.map"
+    "main.css": "/jkotania/jkwear/static/css/main.793b1b60.css",
+    "main.js": "/jkotania/jkwear/static/js/main.e79c7086.js",
+    "static/media/video.mp4": "/jkotania/jkwear/static/media/video.6424568a867c855da250.mp4",
+    "static/media/fa-solid-900.ttf": "/jkotania/jkwear/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/jkotania/jkwear/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/jkotania/jkwear/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/jkotania/jkwear/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/jkotania/jkwear/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/jkotania/jkwear/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/jkotania/jkwear/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/jkotania/jkwear/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/jkotania/jkwear/index.html",
+    "main.793b1b60.css.map": "/jkotania/jkwear/static/css/main.793b1b60.css.map",
+    "main.e79c7086.js.map": "/jkotania/jkwear/static/js/main.e79c7086.js.map"
   },
   "entrypoints": [
-    "static/css/main.db6ca6de.css",
-    "static/js/main.79bdb9a9.js"
+    "static/css/main.793b1b60.css",
+    "static/js/main.e79c7086.js"
   ]
 }
